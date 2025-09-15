@@ -1,12 +1,12 @@
 [project]
-name = 'STX-Lucky-Draw'
+name = 'TimeLock'
 description = ''
 authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
-[contracts.STX-Lucky-Draw]
-path = 'contracts/STX-Lucky-Draw.clar'
+[contracts.TimeLock]
+path = 'contracts/TimeLock.clar'
 clarity_version = 3
 epoch = 3.1
 [repl.analysis]
