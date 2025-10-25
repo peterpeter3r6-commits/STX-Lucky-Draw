@@ -1,6 +1,6 @@
 
 {
-  "name": "arcane-tests",
+  "name": "TimeLock-tests",
   "version": "1.0.0",
   "description": "Run unit tests on this project.",
   "type": "module",
